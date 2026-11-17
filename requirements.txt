@@ -1,0 +1,6 @@
+streamlit>=1.30
+requests
+pandas
+python-docx
+openpyxl
+pypdf
